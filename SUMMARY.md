@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
+
+## AirBnb
+
+* [Upstairs Bathroom](airbnb/upstairs-bathroom.md)
 

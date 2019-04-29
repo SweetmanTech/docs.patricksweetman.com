@@ -6,19 +6,27 @@ description: Checklists to clean the bathroom.
 
 ## Full Clean
 
+### General
+
 * [ ] Scrub Ceiling
-* [ ] Shower
-  * [ ] Machine Wash Shower Curtain
-  * [ ] Wipe Shower Rod
-  * [ ] Bleach Scrub Shower
-  * [ ] Remove and Clean Ceiling Vent
-* [ ] Sink
-  * [ ] Wipe Mirror
-  * [ ] Clean Sink
 * [ ] Bleach Clean Toilet
-* [ ] Floor
-  * [ ] Vacuum Floor
-  * [ ] Mop Floor
+
+### Shower
+
+* [ ] Machine Wash Shower Curtain
+* [ ] Wipe Shower Rod
+* [ ] Bleach Scrub Shower
+* [ ] Remove and Clean Ceiling Vent
+
+### Sink
+
+* [ ] Wipe Mirror
+* [ ] Clean Sink
+
+### Floor
+
+* [ ] Vacuum Floor
+* [ ] Mop Floor
 
 ## Quick Clean \(80 / 20 rule\)
 

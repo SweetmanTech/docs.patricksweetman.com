@@ -4,8 +4,6 @@ description: Checklists to clean the Foyer.
 
 # Foyer
 
-
-
 ## Full Clean
 
 * [ ] Doors

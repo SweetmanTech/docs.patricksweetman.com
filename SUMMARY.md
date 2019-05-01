@@ -4,5 +4,7 @@
 
 ## AirBnb
 
+* [Cleaning Schedule](airbnb/cleaning-schedule.md)
 * [Upstairs Bathroom](airbnb/upstairs-bathroom.md)
+* [Foyer](airbnb/foyer.md)
 

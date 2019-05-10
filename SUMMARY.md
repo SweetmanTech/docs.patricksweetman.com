@@ -8,4 +8,5 @@
 * [Upstairs Bathroom](airbnb/upstairs-bathroom.md)
 * [Foyer](airbnb/foyer.md)
 * [Living Room](airbnb/living-room.md)
+* [Kitchen](airbnb/kitchen.md)
 

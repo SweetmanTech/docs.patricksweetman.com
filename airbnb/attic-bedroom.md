@@ -4,8 +4,6 @@ description: Checklists to clean the Attic Bedroom.
 
 # Attic Bedroom
 
-
-
 ## Full Clean
 
 * [ ] Scrub Ceiling Fan

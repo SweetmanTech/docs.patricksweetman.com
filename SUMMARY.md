@@ -11,4 +11,5 @@
 * [Kitchen](airbnb/kitchen.md)
 * [Cozy Private Bedroom](airbnb/cozy-private-bedroom.md)
 * [Attic Bedroom](airbnb/attic-bedroom.md)
+* [Bedroom \#4 - DAVE](airbnb/bedroom-4-dave.md)
 

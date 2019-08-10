@@ -4,8 +4,6 @@ description: 'Checklists to clean Airbnb Bedroom #4.'
 
 # Bedroom \#4 - DAVE
 
-
-
 ## Full Clean
 
 * [ ] Scrub Ceiling Fan \(10 min\)
@@ -22,7 +20,6 @@ description: 'Checklists to clean Airbnb Bedroom #4.'
   * [ ] Fan ON
     * [ ] Summer - HIGH
     * [ ] Winter - LOW
-  * [ ] TV ON Chromecast Ambient Display
   * [ ] Blinds OPEN
 * [ ] Vacuum Floor \(10 min\)
 * [ ] Empty & Replace Trash Can \(5 min\)
